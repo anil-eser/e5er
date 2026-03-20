@@ -10,8 +10,8 @@ Code. Data. Design.
 **E5ER.** is more than a name; it functions as a **Method Call**. In the world of software, the dot (`.`) represents the point where an object transitions into action.
 
 ### Technical Specifications
-* **Root:** Eser (The Work)
-* **Variable:** 5 (The Digital Synthesis / S)
+* **Root:** Anil ESER
+* **Variable:** 5 (The Digital Synthesis)
 * **Operator:** `.` (The Execution Point)
 
 ### Tech Stack & Interests
