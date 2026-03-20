@@ -1,11 +1,11 @@
 # E5ER.
-E 5 E R .
-[ 4 5  3 5  4 5  5 2  2 E ]
-> **Code. Data. Design.**
+# [ 4 5  3 5  4 5  5 2  2 E ]
+# Code. Data. Design.
+
 ---
 
 ### Key Idea
-**E5ER.** is more than a moniker; it functions as a **Method Call**. In the world of software, the dot (`.`) represents the point where an object transitions into action.
+**E5ER.** is more than a name; it functions as a **Method Call**. In the world of software, the dot (`.`) represents the point where an object transitions into action.
 
 ### Technical Specifications
 * **Root:** Eser (The Work)
