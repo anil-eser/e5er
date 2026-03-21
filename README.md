@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="400" alt="E5ER. Logo">
+</p>
+
 # E 5 E R .
 
 > CODE . DATA . DESIGN .
