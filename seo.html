@@ -15,16 +15,16 @@
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     :root {
-      --bg: #f5f5f7; --surface: #ffffff; --text-primary: #1d1d1f;
-      --text-secondary: #6e6e73; --text-tertiary: #adadb8; --accent: #0071e3;
-      --accent-light: #e8f1fc; --border: rgba(0,0,0,0.08); --pill-bg: #e8e8ed;
-      --tag-green: #e3f5eb; --tag-green-text: #1c7a3c;
-      --tag-red: #fde8e8; --tag-red-text: #c0392b;
-      --tag-blue: #e8f1fc; --tag-blue-text: #0051a2;
+      --bg: #1d1d1f; --surface: #2c2c2e; --text-primary: #f5f5f7;
+      --text-secondary: #adadb8; --text-tertiary: #6e6e73; --accent: #0071e3;
+      --accent-light: #1c2a3a; --border: rgba(255,255,255,0.08); --pill-bg: #3a3a3c;
+      --tag-green: #1c3a28; --tag-green-text: #4cd964;
+      --tag-red: #3a1c1c; --tag-red-text: #ff6b6b;
+      --tag-blue: #1c2a3a; --tag-blue-text: #4da3ff;
     }
     html { scroll-behavior: smooth; }
     body { font-family: 'DM Sans', -apple-system, sans-serif; background: var(--bg); color: var(--text-primary); line-height: 1.6; -webkit-font-smoothing: antialiased; }
-    nav { position: sticky; top: 0; z-index: 100; background: rgba(245,245,247,0.85); backdrop-filter: saturate(180%) blur(20px); -webkit-backdrop-filter: saturate(180%) blur(20px); border-bottom: 1px solid var(--border); padding: 0 24px; height: 48px; display: flex; align-items: center; justify-content: space-between; }
+    nav { position: sticky; top: 0; z-index: 100; background: rgba(29,29,31,0.85); backdrop-filter: saturate(180%) blur(20px); -webkit-backdrop-filter: saturate(180%) blur(20px); border-bottom: 1px solid var(--border); padding: 0 24px; height: 48px; display: flex; align-items: center; justify-content: space-between; }
     .nav-logo { font-family: 'DM Mono', monospace; font-size: 13px; font-weight: 400; color: var(--text-primary); text-decoration: none; letter-spacing: 0.05em; }
     .nav-right { display: flex; gap: 20px; align-items: center; }
     .nav-right a { font-size: 12px; color: var(--text-secondary); text-decoration: none; transition: color 0.2s; }
